@@ -10,7 +10,10 @@
 main:
   - title: "Publications"
     url: /publications/
-
+    children:
+      - title: "Full Publications"
+        url: /full-publications/
+    
   - title: "Teaching"
     url: /teaching/    
     
