@@ -26,6 +26,6 @@ My teaching develops economic intuition from everyday common sense into structur
 **Undergraduate Courses**
 - MicroEconomics
 - MacroEconomics
+- Intermediate Economics
 - International Economics 
-- Advanced Economics
-- Research Methodology and report writing 
+- Research Methodology and Report Writing 
