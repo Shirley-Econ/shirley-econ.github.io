@@ -8,35 +8,35 @@ author_profile: true
 
 ## Peer-Reviewed Journal Articles
 
-**Zhang, Y.**, Khan, N. U., Cai, H. H., **Tang, S.**, & Bousrih, J. (2025).  
+Zhang, Y., Khan, N. U., Cai, H. H., **Tang, S.**, & Bousrih, J. (2025).  
 Sowing the seeds of sustainability: Digitalization, renewable energy, and carbon emissions in emerging economies’ global value chains.  
 *Journal of Environmental Management*, 393, 127119.  
 https://doi.org/10.1016/j.jenvman.2025.127119  
 
 ---
 
-**Cai, H. H.**, Yuan, Q., **Tang, S.**, Nguyen, Q., Dai, J., & Zheng, W. (2025).  
+Cai, H. H., Yuan, Q., **Tang, S.**, Nguyen, Q., Dai, J., & Zheng, W. (2025).  
 The moderating role of green innovation and eco-friendly goods in the growth–greenhouse gas nexus.  
 *Energy Economics*.  
 https://doi.org/10.1016/j.eneco.2025.108190  
 
 ---
 
-**Lin, Y.**, Osman, N. A., **Tang, S.**, Ahmad, M. N., Sulaiman, R., Zhang, Y., & Su, J. (2025).  
+Lin, Y., Osman, N. A., **Tang, S.**, Ahmad, M. N., Sulaiman, R., Zhang, Y., & Su, J. (2025).  
 A sustainable industrial waste control with AI for predicting CO₂ for climate change monitoring.  
 *Journal of Environmental Management*, 383.  
 https://doi.org/10.1016/j.jenvman.2025.125338  
 
 ---
 
-**Cai, H. H.**, Khan, N. U., **Tang, S.**, Siddiqui, M., Xia, M., & Qu, H. (2024).  
+Cai, H. H., Khan, N. U., **Tang, S.**, Siddiqui, M., Xia, M., & Qu, H. (2024).  
 Developing environmental sustainability policy: How financing and subsidies influence green innovation.  
 *Journal of Environmental Management*.  
 https://doi.org/10.1016/j.jenvman.2024.122218  
 
 ---
 
-**Cai, H. H.**, Sarpong, D., **Tang, S.**, & Zhao, G. (2020).  
+Cai, H. H., Sarpong, D., **Tang, S.**, & Zhao, G. (2020).  
 Foreign patents surge and technology spillovers in China (1985–2009): Evidence from patent and trade markets.  
 *Technological Forecasting and Social Change*, 151.  
 https://doi.org/10.1016/j.techfore.2019.119784  
