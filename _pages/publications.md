@@ -1,4 +1,5 @@
----
+
+[View Full Publications →](/full-publications/)
 layout: archive
 title: "Publications"
 permalink: /publications/
