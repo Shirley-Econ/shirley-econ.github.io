@@ -4,6 +4,7 @@ title: "Full Publications"
 permalink: /full-publications/
 author_profile: true
 ---
+[← Back to Selected Publications](/publications/)
 
 ## Peer-Reviewed Journal Articles
 
