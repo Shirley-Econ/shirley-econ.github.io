@@ -1,10 +1,10 @@
 
-[View Full Publications →](/full-publications/)
 layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+[View Full Publications →](/full-publications/)
 
 ## Selected Publications
 
